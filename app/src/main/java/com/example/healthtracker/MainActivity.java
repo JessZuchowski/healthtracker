@@ -32,13 +32,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
-//    public void onButtonClick(View view) {
-//        clickCounter = clickCounter+1;
-//        if(clickCounter == 1) {
-//        TextView text = findViewById(R.id.text_counter);
-//        text.setText("Click Count:" + clickCounter);
-//
-//        }
-//    }
 }
