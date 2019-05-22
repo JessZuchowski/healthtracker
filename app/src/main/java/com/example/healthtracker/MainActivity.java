@@ -21,7 +21,11 @@ public class MainActivity extends AppCompatActivity {
     public TextView text_counter;
 
     CarouselView carouselView;
-    public int[] carouselImageList = {R.drawable.begonia1, R.drawable.variegated2, R.drawable.magnolia3, R.drawable.moss4};
+    public int[] carouselImageList = {
+            R.drawable.begonia1,
+            R.drawable.variegated2,
+            R.drawable.magnolia3,
+            R.drawable.moss4};
 //    CarouselView customCarouselView;
 //    int NUMBER_OF_PAGES = 4;
 
