@@ -21,8 +21,6 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.variegated2,
             R.drawable.magnolia3,
             R.drawable.moss4};
-//    CarouselView customCarouselView;
-//    int NUMBER_OF_PAGES = 4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
