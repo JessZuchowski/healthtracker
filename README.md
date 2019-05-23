@@ -12,6 +12,11 @@
 
 ![day 2](app/screenshots/day2.png)
 
+## Day Three Features:
+1. Database Setup: Set up a DB to contain exercise data (title, quantity, description, timestamp).
+2. Display Diary: Add a new activity that has a diary view (temporary TextView for now).
+3. Add to Diary: Add a form to allow users to enter data. Submitting should store data in DB. 
+
 ## References:
 1. <a href="https://www.4tocode.com/create-button-click-increment-counter-in-android/"> Click Counter </a>
 2. <a href="https://github.com/sayyam/carouselview"> Image Carousel </a>
