@@ -12,7 +12,7 @@ import android.widget.TextView;
 import com.synnapps.carouselview.CarouselView;
 import com.synnapps.carouselview.ImageListener;
 
-public class FingerExercise extends AppCompatActivity {
+public class ExerciseActivity extends AppCompatActivity {
     public int clickCounter = 0;
     public Button button;
     public TextView text_counter;
@@ -27,7 +27,7 @@ public class FingerExercise extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_finger_exercise);
+        setContentView(R.layout.activity_exercise);
 
         carouselView = (CarouselView) findViewById(R.id.carouselView);
         carouselView.setPageCount(carouselImageList.length);
